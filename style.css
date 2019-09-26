@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url('img_jumbotron.jpg');
+    background-repeat: no-repeat;
+    height: 375px;
+    background-size: cover;
+}
+.img_size {
+    width: 50%;
+    height: auto;
+}
+.list_unstyle {
+    padding-left: 0;
+    list-style: none;
+}
+.page-footer {
+    padding-left: 50px;
+    color: grey;
+    font-size: smaller;
+}
